@@ -1,10 +1,10 @@
-# 📊 South African Matric Results & District Analytics
+# South African Matric Results & District Analytics
 
 Data science and educational data processing pipeline for South African National Senior Certificate (Matric) examination results across provinces and educational districts.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Automated District OCR / PDF Cleanup**: Reconstructs inverted, multi-line OCR artifacts in scanned district records.
 - **Pass Rate & Distinction Analytics**: Aggregates pass percentages and subject breakdowns across Eastern Cape and Free State school districts.
@@ -12,7 +12,7 @@ Data science and educational data processing pipeline for South African National
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```bash
 # Install dependencies
